@@ -31,3 +31,4 @@ package-lock.json
 yarn.lock
 pnpm-lock.yaml
 
+"node_modules/"   # Just in case it's missing
